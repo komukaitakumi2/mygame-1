@@ -1,12 +1,12 @@
 これは、私の任天堂合格のためのリポジトリです。まず、マリオのようなゲームを作ります。
 ここに、やったことを全て書いていきます。
-# 🎮 Nintendo（Godot）プロジェクト
+#  Nintendo（Godot）プロジェクト
 
 このプロジェクトは、Godot Engine を用いた 2D アクションゲームの開発環境です。
 
 ---
 
-## ✅ 前提環境
+##  前提環境
 
 - macOS（Intel または Apple Silicon）
 - Git（`git --version`で確認）
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 環境構築手順（Mac）
+##  環境構築手順（Mac）
 
 ### 1. Godot のインストール
 
@@ -34,7 +34,7 @@ cd nintendo
 2.	「Import」→ nintendo フォルダの中の project.godot を選択
 3.	「Open」で読み込み完了！
 
-##　使用技術
+## 使用技術
 - Godot Engine 4.x
 - GDScript（Pythonライクなスクリプト言語）
 - Git（バージョン管理）
