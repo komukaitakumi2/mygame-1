@@ -34,7 +34,24 @@ cd nintendo
 2.	「Import」→ nintendo フォルダの中の project.godot を選択
 3.	「Open」で読み込み完了！
 
-## 使用技術
+### 使用技術
 - Godot Engine 4.x
 - GDScript（Pythonライクなスクリプト言語）
 - Git（バージョン管理）
+
+### ディレクトリ構成例
+```bash
+nintendo/
+├── .gitignore
+├── README.md
+├── project.godot
+├── main.tscn
+├── player/
+│   ├── Player.tscn
+│   └── Player.gd
+└── .import/
+```
+
+### 開発メモ
+-	.import/ や export.cfg などは .gitignore 済みです
+-	Godot 4.x では .godot/ は Git 管理対象に含めてください
