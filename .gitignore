@@ -1,13 +1,9 @@
-# Godot-specific
+# Godot 4+ specific ignores
+.godot/
+/android/
 .import/
 export.cfg
 export_presets.cfg
-
-# OS-generated
-.DS_Store
-
-# Backup files
 *.tmp
 *.bak
-*.old
-*.orig
+.DS_Store

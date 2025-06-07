@@ -1,6 +1,6 @@
 これは、私の任天堂合格のためのリポジトリです。まず、マリオのようなゲームを作ります。
 ここに、やったことを全て書いていきます。
-#  mygame-1 (Godot）プロジェクト
+#  mygame-1のGoDotプロジェクト
 
 このプロジェクトは、Godot Engine を用いた 2D アクションゲームの開発環境です。
 
@@ -26,7 +26,7 @@
 ### 2. プロジェクトのクローン
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/nintendo.git
+git clone https://github.com/komukaitakumi2/nintendo.git
 cd nintendo
 ```
 ### 3.Godot でプロジェクトを開く
