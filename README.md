@@ -1,6 +1,6 @@
 これは、私の任天堂合格のためのリポジトリです。まず、マリオのようなゲームを作ります。
 ここに、やったことを全て書いていきます。
-#  Nintendo（Godot）プロジェクト
+#  mygame-1Godot）プロジェクト
 
 このプロジェクトは、Godot Engine を用いた 2D アクションゲームの開発環境です。
 
@@ -41,7 +41,7 @@ cd nintendo
 
 ### ディレクトリ構成例
 ```bash
-nintendo/
+mygame-1/
 ├── .gitignore
 ├── README.md
 ├── project.godot
