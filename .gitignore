@@ -1,0 +1,13 @@
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+
+# OS-generated
+.DS_Store
+
+# Backup files
+*.tmp
+*.bak
+*.old
+*.orig
