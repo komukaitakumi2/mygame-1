@@ -26,8 +26,8 @@
 ### 2. プロジェクトのクローン
 
 ```bash
-git clone https://github.com/komukaitakumi2/nintendo.git
-cd nintendo
+git clone https://github.com/komukaitakumi2/mygame-1.git
+cd mygame-1
 ```
 ### 3.Godot でプロジェクトを開く
 1.	Godot を起動
